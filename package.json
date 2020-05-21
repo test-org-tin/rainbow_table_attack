@@ -1,0 +1,15 @@
+{
+  "name": "techfoundry-class",
+  "version": "1.0.0",
+  "description": "Dependencies for code used to teach techfoundry class",
+  "main": "md5Generator.js",
+  "scripts": {
+    "start": "node md5Generator.js"
+  },
+  "author": "tinsae erkailo",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "md5": "^2.2.1"
+  }
+}
