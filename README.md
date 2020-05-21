@@ -7,7 +7,7 @@ A rainbow table attack is a technique wherein a rainbow hash table is used to cr
 ### Script Usage
 
 Download the files needed (and some sample hashes and passwords) with the following command:
-`git clone link`
+`git clone https://github.com/tinnytintin10/rainbow`
 
 You'll need `Node.js` to run the script; you can download [`Node.js` here](https://nodejs.org/en/). 
 
