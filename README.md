@@ -24,6 +24,6 @@ You will need to specify two parameters for it to work:
 
 To run the script with the sample provided, execute the following command:
 
-`node rainbow.js -p sample/passwordHashes.txt  -h sample/10-million-password-list-top-1000000.txt`
+`node rainbow.js -p sample/10-million-password-list-top-1000000.txt -h sample/passwordHashes.txt`
 
 enjoy :) 
